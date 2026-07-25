@@ -1,0 +1,21 @@
+Category,Product,Revenue,Profit,Orders,Quantity_Sold
+Electronics,Keyboard,923064.46,285412.14,323,1004
+Electronics,Mouse,853285.18,264431.9,336,1063
+Electronics,Headphones,850576.7,271208.94,326,985
+Electronics,Laptop,794192.23,252967.66,319,953
+Electronics,Monitor,783093.26,240693.18,310,915
+Furniture,Bookshelf,342009.85,108382.99,242,766
+Furniture,Cabinet,326062.35,102837.96,254,733
+Furniture,Desk,312460.97,98303.22,241,733
+Furniture,Lamp,298753.5,93771.93,227,679
+Furniture,Office Chair,252651.36,76505.19,205,584
+Clothing,Sweater,86512.13,28088.53,220,661
+Clothing,T-Shirt,79834.97,24768.93,202,621
+Clothing,Jacket,75741.29,24291.22,192,597
+Clothing,Shoes,72775.94,22330.22,200,592
+Clothing,Jeans,64998.9,20377.15,184,521
+Office Supplies,Pens,46485.41,14590.13,262,784
+Office Supplies,Printer Paper,45383.83,13767.92,246,755
+Office Supplies,Notebook,45138.26,14519.13,268,790
+Office Supplies,Folders,43286.27,13692.14,239,748
+Office Supplies,Stapler,37512.5,11734.57,204,620
