@@ -39,7 +39,7 @@ The objective is to answer important business questions such as:
 
 The Power BI dashboard provides an interactive overview of retail performance, including revenue, profit, orders, average order value, product performance, regional sales, customer segmentation, and transaction-level information.
 
-![Retail Sales & Customer Analytics Dashboard](Screenshot%202026-07-22%20071043(2).png)
+![Retail Sales Dashboard](Screenshot%202026-07-22%20071043.png)
 
 ### Dashboard Components
 
@@ -81,7 +81,7 @@ These KPIs provide a high-level overview of the financial and operational perfor
 
 Monthly sales were aggregated to identify changes in revenue, profit, order volume, customer activity, and average order value over time.
 
-![Monthly Revenue Trend](monthly_revenue_trend(3).png)
+![Monthly Revenue Trend](monthly_revenue_trend.png)
 
 The analysis shows noticeable month-to-month variation in revenue, with several strong revenue periods across the three-year dataset.
 
@@ -96,7 +96,7 @@ Revenue and profitability were analyzed across four major product categories:
 - Clothing
 - Office Supplies
 
-![Revenue by Product Category](revenue_by_category(3).png)
+![Revenue by Product Category](revenue_by_category.png)
 
 ### Key Finding
 
@@ -110,7 +110,7 @@ Furniture generated approximately **$1.53M**, making it the second-largest reven
 
 Product-level analysis was performed to identify the products contributing the most revenue.
 
-![Top 10 Products by Revenue](top_10_products(3).png)
+![Top 10 Products by Revenue](top_10_products.png)
 
 Products such as **Keyboard, Mouse, Headphones, Laptop, and Monitor** appear among the strongest revenue-generating products in the dataset.
 
@@ -127,8 +127,7 @@ Customers were segmented into four groups based on their total revenue contribut
 - High Value
 - VIP
 
-![Customer Value Segments](customer_segments(3).png)
-
+![Customer Value Segments](customer_segments.png)
 The segmentation allows the business to distinguish between lower-value customers and customers who contribute significantly more revenue.
 
 ### Customer Segment Insights
